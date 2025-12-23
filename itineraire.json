@@ -1,0 +1,115 @@
+{
+  "pays": "Roumanie",
+  "drapeau": "🇷🇴",
+  "symbole": "🏰",
+  "titre": "Escapade relaxante à Sibiu, la perle de Transylvanie",
+  "budget_total": "1200 €/pers (estimation)",
+  "duree": "4 jours",
+  "temps_vol": "4h30 (avec escale depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur et charme médiéval",
+      "legende": "Après votre vol, installez-vous confortablement et laissez-vous charmer par l\"atmosphère paisible de la vieille ville de Sibiu. Une première immersion tout en douceur.",
+      "lieu": "Sibiu",
+      "activites": [
+        "<strong>🛬 Arrivée à Sibiu</strong>: Atterrissage à l\"aéroport international de Sibiu (SBZ) et transfert vers votre hébergement.",
+        "<strong>🛏️ Installation à l\"hôtel</strong>: Check-in dans un hôtel 3* au cœur de la ville pour un accès facile aux attractions.",
+        "<strong>🚶‍♂️ Balade relaxante dans la Grande Place (Piața Mare)</strong>: Flânez sur la place principale, admirez l\"architecture baroque et les \"yeux de Sibiu\" sur les toits. Prenez un café en terrasse pour vous imprégner de l\"ambiance."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "L\"aéroport de Sibiu est proche du centre-ville. Un taxi ou un bus local (ligne 11, 112, 116) vous y mènera en 15-20 minutes."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Culture et sérénité au grand air",
+      "legende": "Découvrez le riche patrimoine culturel de la Transylvanie dans un cadre verdoyant et apaisant, suivi d\"une exploration des ruelles historiques de Sibiu.",
+      "lieu": "Sibiu",
+      "activites": [
+        "<strong>🌳 Visite du Musée National Brukenthal</strong>: Explorez ce magnifique palais abritant des collections d\"art roumain et européen. Prenez votre temps pour apprécier les œuvres.",
+        "<strong>🚶‍♀️ Promenade au Parc Sub Arini</strong>: Profitez d\"une balade tranquille dans l\"un des plus anciens et grands parcs naturels de Roumanie, idéal pour se ressourcer.",
+        "<strong>🍽️ Dîner dans la Petite Place (Piața Mică)</strong>: Savourez un repas traditionnel roumain dans l\"un des restaurants pittoresques de la Petite Place, avec vue sur le Pont des Mensonges."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce culturelle",
+          "texte": "Le Musée Brukenthal est un incontournable. Prévoyez 2-3 heures pour une visite complète et détendue."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "♨️",
+      "titre": "Détente aux lacs salés d\"Ocna Sibiului",
+      "legende": "Évadez-vous pour une journée de bien-être et de relaxation aux célèbres lacs salés d\"Ocna Sibiului, réputés pour leurs propriétés thérapeutiques.",
+      "lieu": "Ocna Sibiului",
+      "activites": [
+        "<strong>🚌 Excursion à Ocna Sibiului</strong>: Prenez un bus local (environ 30 min de trajet) pour rejoindre cette station balnéaire unique.",
+        "<strong>🏊 Baignade et relaxation aux lacs salés</strong>: Profitez des eaux salées et des boues thérapeutiques des lacs Ursu ou Brâncoveanu. Idéal pour la détente musculaire et l\"esprit.",
+        "<strong>🚶‍♂️ Balade autour des lacs</strong>: Promenez-vous sur les sentiers aménagés autour des lacs, respirez l\"air pur et admirez le paysage."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Saisonnalité",
+          "texte": "Les lacs salés sont particulièrement agréables de mai à septembre. En dehors de cette période, l\"accès peut être limité ou l\"expérience moins optimale."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "✈️",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez de vos dernières heures à Sibiu pour quelques achats souvenirs ou une dernière promenade avant de prendre votre vol retour, la tête pleine de beaux souvenirs.",
+      "lieu": "Sibiu",
+      "activites": [
+        "<strong>🛍️ Shopping de souvenirs</strong>: Parcourez les petites boutiques de la vieille ville pour trouver des produits artisanaux locaux, comme des céramiques ou des broderies.",
+        "<strong>☕ Dernier café roumain</strong>: Savourez un dernier café ou une pâtisserie dans un des charmants cafés de Sibiu.",
+        "<strong>✈️ Départ de Sibiu</strong>: Transfert vers l\"aéroport pour votre vol retour vers Paris, France."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées souvenirs",
+          "texte": "Pensez aux produits locaux comme le miel, les confitures de fruits des bois, ou des objets en bois sculpté."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "406 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "70 €/pers (bus locaux, taxi aéroport, bus Ocna Sibiului)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "350 €/pers (4 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "300 €/pers (3 nuits en hôtel 3* partagé)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "50 €/pers (musées, accès lacs salés)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai-Juin", "symbole": "🌸" },
+    { "titre": "Septembre-Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Leu Roumain (RON). Les cartes de crédit sont largement acceptées, mais ayez un peu de liquide pour les petits commerces.", "symbole": "💳" },
+    { "titre": "La langue officielle est le roumain. L\"anglais est couramment parlé dans les zones touristiques et par les jeunes.", "symbole": "🗣️" },
+    { "titre": "Le climat est continental. Prévoir des vêtements adaptés à la saison: étés chauds, hivers froids. Printemps/automne sont doux mais peuvent être pluvieux.", "symbole": "🌦️" },
+    { "titre": "Les prises électriques sont de type F (deux broches rondes), comme en France. Pas besoin d\"adaptateur.", "symbole": "🔌" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols Paris-Sibiu", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-SBZ/2024-09-15/2024-09-18", "symbole": "🛬" },
+    { "legende": "Office du Tourisme Sibiu", "titre": "Découvre Sibiu", "url": "https://www.sibiucity.ro/en", "symbole": "📘" },
+    { "legende": "Transports en commun Sibiu", "titre": "Bus Sibiu", "url": "https://tursib.ro/", "symbole": "🚌" },
+    { "legende": "Météo Sibiu", "titre": "Prévisions météo", "url": "https://www.accuweather.com/fr/ro/sibiu/287702/weather-forecast/287702", "symbole": "🌤️" }
+  ]
+}
